@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Lucas 👾
+## Bem-vindes ao meu perfil<br> Eu sou o Lucas 👾
 
  <div>
    <a href="https://github.com/Lucas-SFernandez">

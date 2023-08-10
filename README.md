@@ -1,20 +1,29 @@
-## Oi pessoal<br> Eu sou o Lucas 👾
-
+## Oi pessoal!🖐🏻<br> Eu sou o Lucas
+### Estudante de Desing de Games 👾
+Atualmente trabalho como freelancer front end
+- Estudando Pyton
+- Estudando JS
+- Estudando Java
  <div>
    <a href="https://github.com/Lucas-SFernandez">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-SFernandez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-SFernandez&layout=compact&langs_count=6&theme=tokyonight"/>
-
 </div>
+
+##
+    
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
+
+##
  
  <br>
  
-  ### Pra me conhecer melhor segue a gente nas redes abaixo!
+  ### Pra me conhecer melhor é só seguir nas redes abaixo!
  
 <div> 
   

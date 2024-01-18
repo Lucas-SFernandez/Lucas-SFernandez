@@ -2,7 +2,9 @@
 ### Estudante de Desing de Games 👾
 Atualmente trabalho como freelancer front end
 - Estudando Pyton
+- Estudando PHP
 - Estudando JS
+- Estudando Typescript 
 - Estudando React
 - Estudando Angular
  <div>

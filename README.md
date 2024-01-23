@@ -7,6 +7,7 @@ Atualmente trabalho como freelancer front end
 - Estudando Typescript ✔️
 - Estudando React.js ✔️
 - Estudando Angular <img width="20" height="20" src="https://img.icons8.com/ios-filled/50/loading.png" alt="loading"/>
+- Estudando SQL ✔️
  <div>
    <a href="https://github.com/Lucas-SFernandez">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-SFernandez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -20,6 +21,10 @@ Atualmente trabalho como freelancer front end
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+ <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+ <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+ <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
 ##

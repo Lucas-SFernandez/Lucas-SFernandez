@@ -1,12 +1,12 @@
 ## Oi pessoal!🖐🏻<br> Eu sou o Lucas
 ### Estudante de Desing de Games 👾
 Atualmente trabalho como freelancer front end
-- Estudando Pyton
-- Estudando PHP
-- Estudando JS
-- Estudando Typescript 
-- Estudando React
-- Estudando Angular
+- Estudando Pyton <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/loading.png" alt="loading"/>
+- Estudando PHP <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/loading.png" alt="loading"/>
+- Estudando JS ✔️
+- Estudando Typescript ✔️
+- Estudando React.js ✔️
+- Estudando Angular <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/loading.png" alt="loading"/>
  <div>
    <a href="https://github.com/Lucas-SFernandez">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-SFernandez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>

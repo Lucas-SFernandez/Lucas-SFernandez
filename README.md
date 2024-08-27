@@ -1,5 +1,5 @@
 ## Oi pessoal!🖐🏻<br> Eu sou o Lucas
-### Estudante de Desing de Games 👾
+### Estudante de Game Desing 👾
 Atualmente trabalho como freelancer front end
 - Estudando JS ✔️
 - Estudando React.js ✔️

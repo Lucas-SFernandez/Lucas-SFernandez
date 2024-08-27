@@ -1,13 +1,12 @@
 ## Oi pessoal!🖐🏻<br> Eu sou o Lucas
 ### Estudante de Desing de Games 👾
 Atualmente trabalho como freelancer front end
-- Estudando Pyton <img width="20" height="20" src="https://img.icons8.com/ios-filled/50/loading.png" alt="loading"/>
-- Estudando PHP <img width="20" height="20" src="https://img.icons8.com/ios-filled/50/loading.png" alt="loading"/>
 - Estudando JS ✔️
-- Estudando Typescript ✔️
 - Estudando React.js ✔️
+- Estudando Node.js ✔️
+- Estudando Typescript <img width="20" height="20" src="https://img.icons8.com/ios-filled/50/loading.png" alt="loading"/>
 - Estudando Angular <img width="20" height="20" src="https://img.icons8.com/ios-filled/50/loading.png" alt="loading"/>
-- Estudando SQL ✔️
+- Estudando SQL <img width="20" height="20" src="https://img.icons8.com/ios-filled/50/loading.png" alt="loading"/>
  <div>
    <a href="https://github.com/Lucas-SFernandez">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-SFernandez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -24,7 +23,6 @@ Atualmente trabalho como freelancer front end
  <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
- <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
 ##

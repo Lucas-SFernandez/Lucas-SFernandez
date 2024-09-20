@@ -4,7 +4,7 @@ Atualmente trabalho como freelancer front end
 - Estudando JS ✔️
 - Estudando React.js ✔️
 - Estudando Node.js ✔️
-- Estudando Typescript <img width="20" height="20" src="https://img.icons8.com/ios-filled/50/loading.png" alt="loading"/>
+- Estudando Typescript ✔️
 - Estudando Angular <img width="20" height="20" src="https://img.icons8.com/ios-filled/50/loading.png" alt="loading"/>
 - Estudando SQL <img width="20" height="20" src="https://img.icons8.com/ios-filled/50/loading.png" alt="loading"/>
  <div>

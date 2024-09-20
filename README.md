@@ -7,6 +7,16 @@ Atualmente trabalho como freelancer front end
 - Estudando Typescript ✔️
 - Estudando Angular <img width="20" height="20" src="https://img.icons8.com/ios-filled/50/loading.png" alt="loading"/>
 - Estudando SQL <img width="20" height="20" src="https://img.icons8.com/ios-filled/50/loading.png" alt="loading"/>
+__________________________________________________________________________________________________________________________________________________________________________________________
+## Hi guys!🖐🏻<br> I'm Lucas
+### Game Design Student 👾
+I currently work as a front end freelancer
+- Studying JS ✔️
+- Studying React.js ✔️
+- Studying Node.js ✔️
+- Studying Typescript ✔️
+- Studying Angular <img width="20" height="20" src="https://img.icons8.com/ios-filled/50/loading.png" alt="loading"/>
+- Studying SQL <img width="20" height="20" src="https://img.icons8.com/ios-filled/50/loading.png" alt="loading"/>
  <div>
    <a href="https://github.com/Lucas-SFernandez">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-SFernandez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>

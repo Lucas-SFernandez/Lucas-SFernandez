@@ -15,11 +15,6 @@ ________________________________________________________________________________
 - Studying Typescript ✔️
 - Studying Python 📚
 - Studying SQL 📚
- <div>
-   <a href="https://github.com/Lucas-SFernandez">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-SFernandez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-SFernandez&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
 
 ##
     
@@ -42,6 +37,7 @@ ________________________________________________________________________________
  <br>
  
   ### Pra me conhecer melhor é só seguir nas redes abaixo!
+  ### To get to know me better, just follow the networks below!
  
 <div> 
   

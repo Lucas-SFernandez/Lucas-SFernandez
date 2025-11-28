@@ -5,7 +5,7 @@ Atualmente trabalho como freelancer front end
 - Estudando React.js ✔️
 - Estudando Node.js ✔️
 - Estudando Typescript ✔️
-- Estudando Angular <img width="20" height="20" src="https://img.icons8.com/ios-filled/50/loading.png" alt="loading"/>
+- Estudando Python <img width="20" height="20" src="https://img.icons8.com/ios-filled/50/loading.png" alt="loading"/>
 - Estudando SQL <img width="20" height="20" src="https://img.icons8.com/ios-filled/50/loading.png" alt="loading"/>
 __________________________________________________________________________________________________________________________________________________________________________________________
 ## Hi guys!🖐🏻<br> I'm Lucas

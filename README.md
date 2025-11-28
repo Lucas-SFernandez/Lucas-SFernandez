@@ -1,6 +1,5 @@
 ## Oi pessoal!🖐🏻<br> Eu sou o Lucas
-### Estudante de Game Desing 👾
-Atualmente trabalho como freelancer front end
+### Estudante de Game Desing 👾 e Analista de Dados 📊
 - Estudando JS ✔️
 - Estudando React.js ✔️
 - Estudando Node.js ✔️
@@ -9,8 +8,7 @@ Atualmente trabalho como freelancer front end
 - Estudando SQL 📚
 __________________________________________________________________________________________________________________________________________________________________________________________
 ## Hi guys!🖐🏻<br> I'm Lucas
-### Game Design Student 👾
-I currently work as a front end freelancer
+### Game Design Student 👾 and Data Analyst 📊
 - Studying JS ✔️
 - Studying React.js ✔️
 - Studying Node.js ✔️
